@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.Column{
+  display: inline-block;
+  margin: 50px;
+}
+
+.Book {
+  border-right: thick solid green;
+  padding-right: 50px;
+}
+
+.Blog{
+  border-left: thick solid green;
+  padding-left: 50px;
+}

@@ -1,0 +1,27 @@
+.Format {
+    text-align: center;
+    font-size: large;
+    border: 1px solid gray;
+    box-shadow: 0 2px 3px gray;
+    border-radius: 10%;
+    margin: 20px auto;
+    padding: 20px;
+    width: 400px;
+}
+
+.Name {
+    font-weight: 300;
+    color: blue;
+}
+
+.College {
+    color: crimson;
+}
+
+.Marks {
+    color: darkmagenta;
+}
+
+.Percentage {
+    color: forestgreen;
+}

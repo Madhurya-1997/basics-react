@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.login, .exit{
+  display: block;
+}
+
+.Button{
+  background-color: green;
+  color: white;
+  border-radius: 5%;
+  font: inherit;
+  border: 1px solid green;
+  padding: 10px;
+  cursor: pointer;
+  outline: none;
+  margin: 50px;
+  width: 200px;
+}
+
+.Button:hover {
+  background-color: lightgreen;
+  color: black;
+  border: 1px solid lightgreen;
+}
